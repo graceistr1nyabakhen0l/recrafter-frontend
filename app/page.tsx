@@ -470,7 +470,7 @@ export default function RecrafterWebsite() {
                       <span className="text-[9px] bg-amber-500 text-slate-900 font-black px-2 py-0.5 rounded-md uppercase shrink-0">BESOK!</span>
                     </div>
                     <p className="text-xs text-slate-300 leading-relaxed">Jangan lewatkan demonstrasi langsung seluruh produk daur ulang rcyclehub di aula utama sekolah besok pagi! Sesi kurasi live oleh dewan juri.</p>
-                    <div className="text-[10px] text-[#A0E670] font-bold pt-1">📍 Lokasi: Lapangan Utama & Gedung KIK • ⏰ 08:00 - Selesai</div>
+                    <div className="text-[10px] text-[#A0E670] font-bold pt-1">📍 Lokasi: Ruang 15 • ⏰ 08:00 - Selesai</div>
                   </div>
                   <div className="bg-white/5 p-4 rounded-xl border border-white/10 space-y-1.5">
                     <div className="flex justify-between items-start gap-2">
